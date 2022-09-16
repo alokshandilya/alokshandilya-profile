@@ -1,5 +1,5 @@
 * 👋 Hi, I’m *@alokshandilya*
-* 🌱 I’m currently learning `JS` and `DSA`
+* 🌱 I’m currently learning `Java`
 
 
 <!---
