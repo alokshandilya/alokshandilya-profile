@@ -1,5 +1,5 @@
 * 👋 Hi, I’m *@alokshandilya*
-* 🌱 I’m currently learning `Java`
+* 🌱 I’m currently learning `Data Science`
 
 
 <!---
