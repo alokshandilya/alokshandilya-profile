@@ -3,6 +3,11 @@
 [![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/6588a76154b5771051390b70?variant=dark)](https://roadmap.sh)
 
 
+[![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/6588a76154b5771051390b70?variant=dark)](https://roadmap.sh)
+
+<a href="https://roadmap.sh"><img src="https://api.roadmap.sh/v1-badge/wide/6588a76154b5771051390b70?variant=dark&roadmaps=ai-data-scientist%2Cfrontend%2Ccomputer-science%2Cjava" alt="roadmap.sh"/></a>
+
+
 <!---
 alokshandilya/alokshandilya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
