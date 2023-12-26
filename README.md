@@ -1,5 +1,6 @@
 * 👋 Hi, I’m *@alokshandilya*
-* 🌱 I’m currently learning `Data Science`
+
+[![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/6588a76154b5771051390b70?variant=dark)](https://roadmap.sh)
 
 
 <!---
