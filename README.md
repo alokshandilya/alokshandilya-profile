@@ -1,4 +1,5 @@
 * 👋 Hi, I’m *@alokshandilya*
+* [View/Download my Resume](https://github.com/alokshandilya/alokshandilya/blob/main/Alok-Shandilya-RESUME.pdf)
 
 [![Alok's GitHub stats](https://github-readme-stats.vercel.app/api?username=alokshandilya&show_icons=true&title_color=d8a657&icon_color=e78a4e&text_color=89b482&bg_color=1d2021&rank_icon=github&include_all_commits=true)](https://github.com/alokshandilya/github-readme-stats)
 <!-- https://github-readme-stats.vercel.app/api?username=alokshandilya&show_icons=true&theme=dark&rank_icon=github&include_all_commits=true -->
