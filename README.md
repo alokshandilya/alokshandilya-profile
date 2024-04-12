@@ -1,6 +1,6 @@
-* 👋 Hi, I’m *@alokshandilya*
-* [View/Download my Resume](https://github.com/alokshandilya/alokshandilya/blob/main/Alok-Shandilya-RESUME.pdf)
-* 
+- 👋 Hi, I’m *@alokshandilya*
+- [View/Download my Resume](https://github.com/alokshandilya/alokshandilya/blob/main/Alok-Shandilya-RESUME.pdf)
+ 
 [![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/6588a76154b5771051390b70?variant=dark&roadmaps=ai-data-scientist%2Cpython)](https://roadmap.sh)
 
 [![Alok's GitHub stats](https://github-readme-stats.vercel.app/api?username=alokshandilya&show_icons=true&theme=nord&rank_icon=github&include_all_commits=true)](https://github.com/alokshandilya/github-readme-stats)
