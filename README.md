@@ -1,5 +1,5 @@
 - 👋 Hi, I’m *@alokshandilya*
-- [View/Download my Resume](https://github.com/alokshandilya/alokshandilya/blob/main/Alok-Shandilya-RESUME.pdf)
+- [View/Download my Resume](https://bit.ly/alokshandilya)
  
 <!-- [![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/6588a76154b5771051390b70?variant=dark&roadmaps=ai-data-scientist%2Cpython)](https://roadmap.sh) -->
 
