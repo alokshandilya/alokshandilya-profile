@@ -1,11 +1,4 @@
-<<<<<<< Updated upstream
-- 👋 Hi, I’m *@alokshandilya*
-- [View/Download my Resume](https://bit.ly/alokshandilya)
- 
-<!-- [![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/6588a76154b5771051390b70?variant=dark&roadmaps=ai-data-scientist%2Cpython)](https://roadmap.sh) -->
-=======
 ## I am a Python, Web Developer and Data Analyst
->>>>>>> Stashed changes
 
 MCA passout from Tezpur University 2k24
 
