@@ -45,7 +45,7 @@ MCA passout from Tezpur University 2k24
   <!-- <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tensorflow-colored.svg" width="36" height="36" alt="TensorFlow" /></a> -->
 </p>
 
-## GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=alokshandilya&show_icons=true&hide=&count_private=true&theme=github_dark&hide_border=true&show_icons=true&custom_title=My%20GitHub%20Stats&card_width=420px&rank_icon=github"
