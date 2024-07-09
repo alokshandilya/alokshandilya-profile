@@ -4,7 +4,7 @@
 
 MCA passout from Tezpur University 2k24
 
-- 🌍 I'm based in Bahadurgarh, Jhajjar, Haryana
+- 🌍 I'm based in Bahadurgarh, Haryana
 - ✉️ You can contact me at [alok.shandilya10@gmail.com](mailto:alok.shandilya10@gmail.com)
 - 🧠 I'm learning Django right now
 - 🤝 I'm open to collaborating on all types of Open Source Projects
