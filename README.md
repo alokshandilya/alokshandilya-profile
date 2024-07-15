@@ -52,7 +52,7 @@ MCA passout from Tezpur University 2k24
 <p align="center">
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=alokshandilya&show_icons=true&hide=&count_private=true&theme=github_dark&hide_border=true&show_icons=true&custom_title=My%20GitHub%20Stats&card_width=420px&rank_icon=github"
   <a href="#"><img src="http://github-readme-streak-stats.herokuapp.com?user=alokshandilya&theme=github_dark&date_format=M%20j%5B%2C%20Y%5D&hide_border=true&card_width=420px"></a>
-  <a href="#"><img src="https://github-readme-activity-graph.vercel.app/graph?username=alokshandilya&theme=github-compact&custom_title=My%20GitHub%20Contribution%20Graph&radius=16&hide_border=true&area=true" /></a>
+  <!--<a href="#"><img src="https://github-readme-activity-graph.vercel.app/graph?username=alokshandilya&theme=github-compact&custom_title=My%20GitHub%20Contribution%20Graph&radius=16&hide_border=true&area=true" /></a>-->
 </p>
 
 ## 🔗 Connect with me
