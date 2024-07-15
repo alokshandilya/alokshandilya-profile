@@ -1,6 +1,6 @@
 # I am a Python, Web Developer
 
-![image](https://github.com/alokshandilya/alokshandilya/assets/77057272/0575d039-e781-4ccb-b12b-7fe74201bce4)
+<!--![image](https://github.com/alokshandilya/alokshandilya/assets/77057272/0575d039-e781-4ccb-b12b-7fe74201bce4)-->
 
 MCA passout from Tezpur University 2k24
 
