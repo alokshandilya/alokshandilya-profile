@@ -1,11 +1,9 @@
-# I am a Python, Web Developer
+# 👋 `print("Hello, World!")`
 
 <!--![image](https://github.com/alokshandilya/alokshandilya/assets/77057272/0575d039-e781-4ccb-b12b-7fe74201bce4)-->
 
-MCA passout from Tezpur University 2k24
+Python Backend Engineer with expertise in Django, FastAPI, Flask, PostgreSQL, MySQL and MongoDB, holding a Master of Computer Applications and proficient in developing interactive platforms and RESTful APIs, also a Machine learning enthusiast.
 
-- 🌍 I'm based in Bahadurgarh, Haryana
-- ✉️ You can contact me at [alok.shandilya10@gmail.com](mailto:alok.shandilya10@gmail.com)
 - 🧠 I'm learning Django right now
 - 🤝 I'm open to collaborating on all types of Open Source Projects
 - 📄 My Resume : [alok_shandilya_resume.pdf](https://bit.ly/alokshandilya)
