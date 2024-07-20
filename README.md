@@ -48,11 +48,11 @@ Python Backend Engineer with expertise in Django, FastAPI, Flask, PostgreSQL, My
 </p>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&pause=1000&color=FFFFFF&random=false&width=435&lines=Feel+free+to+connect+with+me+%F0%9F%98%8A" alt="Typing SVG" /></a>
 
-## 💵 Support Me
+<!-- ## 💵 Support Me
 
 <a href="https://www.buymeacoffee.com/alokshandilya">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/>
-</a>
+</a> -->
 
 ## 📈 Profile Statistics
 
