@@ -4,7 +4,7 @@
 
 Python Backend Engineer with expertise in Django, FastAPI, Flask, PostgreSQL, MySQL and MongoDB, holding a Master of Computer Applications and proficient in developing interactive platforms and RESTful APIs, also a Machine learning enthusiast.
 
-- 🧠 I'm learning Django right now
+- 🧠 I'm learning Django, Machine learning right now
 - 🤝 I'm open to collaborating on all types of Open Source Projects
 - 📄 My Resume : [alok_shandilya_resume.pdf](https://bit.ly/alokshandilya)
 
